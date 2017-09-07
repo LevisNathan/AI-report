@@ -76,6 +76,9 @@ footer {
     background-image:url('Eye.png');
     overflow-y: visible;
 }
+words {
+    float: left;
+}
 a {
     color: cyan;
 }
