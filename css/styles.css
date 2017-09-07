@@ -71,8 +71,8 @@ footer {
 }
 #diff {
     display:block;
-    height: 750px;
-    width: 1500px;
+    height: 850px;
+    width: 1700px;
     background-image:url('Eye.png');
     overflow-y: visible;
 }
