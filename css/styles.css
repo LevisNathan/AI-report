@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+core {
+    display:block;
+    height: 1000px;
+    width: 1500px;
+    background-image:url('brain.jpg');
+
+    overflow-y: visible;
+}
+header{
+    color: white;
+    text-shadow: 2px 5px green;
+    font-family: fantasy;
+    font-size: larger;
+}
+nav a {
+    padding:15px;
+    padding-bottom:4px;
+    padding-right: 10px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color:chartreuse;
+}
+nav a:hover {
+    border-bottom: 2px;
+    font-size: 2em;
+    transition: .9s;
+    color:blanchedalmond;
+}
+/*this is in news*/
+#chart{ 
+    width: 709px;
+    height: 260px;
+    margin-right: 5%;
+    float: right;
+}
+main{
+    margin-top: 2%;
+    color: white;
+     line-height: 150%;
+    font-size: large;
+}
+site:hover{
+    border-bottom: 2px;
+    transition: .9s;
+    color:cyan;
+}
+intro {
+    color:white;
+    font-size: large;
+    line-height: 150%;
+}
+    
+footer {
+    position:absolute;
+    bottom:0;
+    float: left;
+    color: white;
+    clear:left;
+}
+
+#musk {
+    float: left;
+}
+#dang {
+    margin-top: 150px;
+    margin-left: 1000px;
+   
+}
+#diff {
+    display:block;
+    height: 750px;
+    width: 1500px;
+    background-image:url('Eye.png');
+    overflow-y: visible;
+}
+a {
+    color: cyan;
+}
